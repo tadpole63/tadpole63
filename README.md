@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tadpole63
 - 👀 I’m interested in ... aviation and computer science
-- 🌱 I’m currently learning ... Starting to learn AI principals, and gonna be relasing some code on that soon!!
-- 💞️ I’m looking to collaborate on ... terminal applications, some basic back end in python, and terminal games
+- 🌱 I’m currently learning ... java and HTML
+- 💞️ I’m looking to collaborate on ... Anything and everything python, and a wee bit of java.  
 - 📫 How to reach me ... email: tadpierski63@gmail.com
 
 <!---
